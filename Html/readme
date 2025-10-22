@@ -1,0 +1,8 @@
+<!DOCTYPE html> - Brauzerga bu HTML5 formatdagi hujjat ekanini bildiradi
+<html> </html> - HTML hujjatning asosiy ildiz elementi
+<head> </head> - sahifaning texnik malumotlari joylashadi (sarlavha, CSS..)
+<title> </title> - title brauzer oynasida chiqadigan nomni bildiradi
+<body> </body> - sahifadagi korinadigan barcha kontent joylashadi: (sarlavhalar, matnlar)
+<h1> </h1> - asosiy sarlavha
+<h3> </h3> - kichikroq bolim sarlavhasi
+<p> </p> - paragraf (matn)
