@@ -5,6 +5,17 @@
 <head> </head> - sahifaning texnik malumotlari joylashadi (sarlavha, CSS..)
 <title> </title> - title brauzer oynasida chiqadigan nomni bildiradi
 <body> </body> - sahifadagi korinadigan barcha kontent joylashadi: (sarlavhalar, matnlar)
-<h1> </h1> - asosiy sarlavha
-<h3> </h3> - kichikroq bolim sarlavhasi
+<h1>Heading 1</h1>   <!-- eng katta -->
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<h6>Heading 6</h6>   <!-- eng kichik -->
 <p> </p> - paragraf (matn)
+
+Nested elements - ichki Elementlar
+Attribute - bu tegga qoshimcha malumot beruvchi xususiyat
+<img src="photo.jpg" alt="My photo" width="300">
+src	-- rasm manzili
+alt --	rasm chiqmasa korsatiladigan matn
+width -- rasm kengligi 
