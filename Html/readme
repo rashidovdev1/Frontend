@@ -25,3 +25,7 @@ width -- rasm kengligi
 <p style="color: red;">Style</p> atributi
 teg ichida yoziladi. - Rang, o'lcham, font, qalinlik, bo'shliq, chegara va boshqa vizual o'zgarishlarni qo'shish.
 Sintaksisi: style="property: value;"
+
+<!--Comments for HTML-->
+Web saytga stil berishning 3 xil usuli mavjud: (inline, internal, external)
+Internal stil yozish uchun <style></style> tegdan foydalanamiz
