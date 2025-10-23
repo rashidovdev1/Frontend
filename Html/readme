@@ -19,3 +19,6 @@ Attribute - bu tegga qoshimcha malumot beruvchi xususiyat
 src	-- rasm manzili
 alt --	rasm chiqmasa korsatiladigan matn
 width -- rasm kengligi 
+
+<br> teg -- break line — yangi qatorga o'tish
+<hr> teg -- horizontal rule — gorizontal chiziq.
