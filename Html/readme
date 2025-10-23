@@ -22,3 +22,6 @@ width -- rasm kengligi
 
 <br> teg -- break line — yangi qatorga o'tish
 <hr> teg -- horizontal rule — gorizontal chiziq.
+<p style="color: red;">Style</p> atributi
+teg ichida yoziladi. - Rang, o'lcham, font, qalinlik, bo'shliq, chegara va boshqa vizual o'zgarishlarni qo'shish.
+Sintaksisi: style="property: value;"
