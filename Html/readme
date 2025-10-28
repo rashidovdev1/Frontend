@@ -90,3 +90,9 @@ Bir nechta variantdan bittasini qaysi elementlar bilan tashlash mumkin?
 <figure> va <figcaption>	Rasm + uning taglavhasi
 <time>	Sana yoki vaqt uchun
 <mark>	Matnda urgu berilgan soz (highlight)
+
+<meta> teglarda sahifa haqida malumot (metadata) saqlanadi:
+charset="UTF-8" → sahifada uzbek, rus, ingliz harflari togri chiqadi.
+keywords → SEO (Google qidiruv) uchun kalit sozlar.
+author → muallif kimligini bildiradi.
+description → saytning qisqa tavsifi (Googleda chiqadi).
