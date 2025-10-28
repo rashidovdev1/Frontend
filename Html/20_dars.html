@@ -2,22 +2,7 @@
 
 <html>
     <head>
-        <title>Forms 2</title>
-        <style>
-            body {
-                background: linear-gradient(135deg, #e0f7fa, #ffffff);
-            }
-            button {
-                background: #0078ff;
-                color: white;
-                border: none;
-                border-radius: 4px;
-                cursor: pointer;
-            }
-            button:hover {
-                background: #005ecc;
-            }
-        </style>
+        <title>Forms 3</title>
 
     </head>
     <body>
@@ -39,7 +24,16 @@
             <input type="radio" name="gender" value="female"><br> <br>
             <label for="passport">Passport</label>
             <input type="file" name="passport" id="passport"><br> <br>
-            <button type="submit">Register</button>
+            <hr>
+            <label for="tajriba">Tajribangiz (yil)</label>
+            <select name="experience" id="tajriba">
+                <option value="0">Tajribam yo'q</option>
+                <option value="1">1 yildan kam</option>
+                <option value="0">1 yildan ko'p</option>
+            </select><br><br>
+            <label for="haqida">Siz haqingizda</label><br><br>
+            <textarea name="haqida" id="about" rows="10" cols="40"></textarea>
+            <br><br><button type="submit">Register</button>
         </form>
 
     </body>
