@@ -44,3 +44,14 @@ Googlega o'tish — foydalanuvchi koradigan matn.
 
 class — kop elementlarga ishlatiladi <p class="center">Salom Dunyo</p>
 id — faqat bitta element uchun ishlatiladi
+
+Inline elementlar - <button>, <input>, <span>, <textarea>, <b></b>
+<div> - blok elementi
+    Har doim yangi qatordan boshlanadi.
+    Kengligi avtomatik ravishda butun sahifani egallaydi.
+    Kopincha katta bolimlar uchun ishlatiladi (masalan: header, footer, card, container)
+
+<span> — inline elementi
+    Yangi qatordan boshlanmaydi.
+    Faqat matn ichida ishlatiladi.
+    Odatda biror soz yoki harfni alohida boyash, kattalashtirish uchun ishlatiladi.
