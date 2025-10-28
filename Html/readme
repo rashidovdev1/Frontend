@@ -36,3 +36,6 @@ External style — bu CSS kodlarini alohida style.css faylga yozish va uni HTML 
 <table> — jadval yaratish (ustunlar (columns) va qatorlar (rows))
 <thead> — jadval sarlavhalari (ustun nomlari)
 <tbody> — jadval malumotlari
+
+class — kop elementlarga ishlatiladi
+id — faqat bitta element uchun ishlatiladi
