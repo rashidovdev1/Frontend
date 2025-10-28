@@ -68,3 +68,25 @@ Inline elementlar - <button>, <input>, <span>, <textarea>, <b></b>
     Student --	checkbox 	✅
     Gender --	radio	Erkak yoki Ayol
     Passport --	file	passport.jpg
+
+Bir nechta variantdan bittasini qaysi elementlar bilan tashlash mumkin?
+<input type="radio"> yoki <select> + <option> elementlari bilan.
+
+<Layout> — bu veb-sahifangizdagi elementlar qanday joylashishini aniqlovchi tuzilma.
+    Element	Vazifasi
+    <main>	Asosiy kontent joyi
+    <section>	Bolim (mavzu)
+    <article>	Mustaqil maqola yoki post
+    <aside>	Yon panel (sidebar, reklama, linklar)
+    
+"Semantics” — bu mano degani
+<header>	Sahifaning yoki bolimning sarlavhasi
+<nav>	Navigatsiya (menular, linklar)
+<main>	Sahifadagi asosiy kontent
+<section>	Malum bir mavzudagi bolim
+<article>	Mustaqil maqola yoki post
+<aside>	Yon panel (reklama, qoshimcha info)
+<footer>	Pastki qism (muallif, aloqa)
+<figure> va <figcaption>	Rasm + uning taglavhasi
+<time>	Sana yoki vaqt uchun
+<mark>	Matnda urgu berilgan soz (highlight)
