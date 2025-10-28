@@ -55,3 +55,16 @@ Inline elementlar - <button>, <input>, <span>, <textarea>, <b></b>
     Yangi qatordan boshlanmaydi.
     Faqat matn ichida ishlatiladi.
     Odatda biror soz yoki harfni alohida boyash, kattalashtirish uchun ishlatiladi.
+
+<form> tegi — foydalanuvchidan malumot olish uchun ishlatiladi.
+<label> — foydalanuvchiga nimani kiritish kerakligini korsatadi.
+
+    Malumot turi	Input turi	Misol
+    Username --	text	ruzibek
+    Password --	password	******
+    Email    -- email	ruzibek@gmail.com
+    
+    Tugilgan --	date	2002-05-10
+    Student --	checkbox 	✅
+    Gender --	radio	Erkak yoki Ayol
+    Passport --	file	passport.jpg
