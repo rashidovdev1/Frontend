@@ -33,9 +33,14 @@ Internal stil yozish uchun <style></style> tegdan foydalanamiz
 External style — bu CSS kodlarini alohida style.css faylga yozish va uni HTML faylga ulash usuli.
 <link rel="stylesheet" href="style.css"> → bu qator HTML sahifani CSS fayl bilan boglaydi.
 
+<a> — link (havola) tegi.
+href="https://google.com" — bu yerda qayerga otilishini korsatadi.
+target="_blank" — havolani yangi oynada (tabda) ochadi.
+Googlega o'tish — foydalanuvchi koradigan matn.
+
 <table> — jadval yaratish (ustunlar (columns) va qatorlar (rows))
 <thead> — jadval sarlavhalari (ustun nomlari)
 <tbody> — jadval malumotlari
 
-class — kop elementlarga ishlatiladi
+class — kop elementlarga ishlatiladi <p class="center">Salom Dunyo</p>
 id — faqat bitta element uchun ishlatiladi
