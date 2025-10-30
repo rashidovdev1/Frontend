@@ -104,3 +104,45 @@ description → saytning qisqa tavsifi (Googleda chiqadi).
 YouTube videoni joylashtirish (iframe orqali):
 iframe tegida src="https://www.youtube.com/embed/..." manzili ishlatiladi.
 https://validator.w3.org/
+
+<!--HTML. 1-darajali test-->
+<style> attribute nima vazifani bajaradi
+- element ning hossasini ifodalaydi. Hossa: rangi, uzunligi, etc
+<!DOCTYPE html> nima ?
+- Yozilgan html kodning versioyasini belgilab beruvchi tag.
+Attribute - ?
+- element haqida qo’shimcha ma’lumot beruvchi maxsus so'zlar
+Element nima ?
+- ochuvchi tag, content va yopuvchi tag dan tashkil topgan structura
+Browser nima ?
+- Web sahifalarni ochish va internetdan foydalanish uchun mo’ljallangan maxsus dastur.
+Paragraphs nima (<p></p>)
+- web sahifada matn chiqarish uchun mo’ljallangan maxsus tag.
+Formating taglari kursatilgan qatorni toping
+- <b></b>, <i></i>, <del></del>, <sub></sub>, <sup></sup>
+Development Envirement nima ?
+- dastur yozish va yaratish uchun mo’ljallangan dasturlar to’plami.
+Domen nima ?
+- Website ning nomi
+HTML ni manosi nima ?
+- HyperText Markup Language - Gipermatnli Belgilash Tili
+Formating nima
+- textlarga turli xil kurinishda ishlov berish imkoni.
+HTML ning vazifasi
+- Saytning structurasi va ichidagi ma’lumotlarga javob beradi.
+Web qanday ishlaydi ?
+- Foydalanuvchi serverga so’rov yuboradi va server response qaytaradi.
+Qaysi teg HTML hujjat sarlavhasini ifodalaydi ?
+- <title></title>
+HTML kodlari saqlangan file ni qanday formatda saqlaymiz
+- .html
+Ochuvchi va Yopuvchi taglarni aniqlang
+- <html></html>
+Bo’sh element nima ?
+- faqatgina ochuvchi tagdan tashkil topgan element
+Server nima ?
+- tarmoqqa ulangan va doimiy ravishda ishlab turadigan kompyuter
+Nested element nima ?
+- boshqa elementni o'z ichiga olgan element
+Headings nima ?
+- web sahifadagi katta ko’rinishdagi textlarni chiqarish uchun mo’ljallangan.
