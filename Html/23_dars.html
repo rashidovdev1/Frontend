@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Media Player 🎧🎬</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      color: white;
+      font-family: "Poppins", sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    h1 {
+      margin-bottom: 20px;
+      text-align: center;
+      font-size: 28px;
+      letter-spacing: 1px;
+    }
+
+    .media-box {
+      background: rgba(255, 255, 255, 0.1);
+      padding: 25px;
+      border-radius: 15px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+      text-align: center;
+      width: 360px;
+    }
+
+    audio, video {
+      width: 100%;
+      border-radius: 10px;
+      outline: none;
+    }
+
+    video {
+      margin-top: 15px;
+    }
+
+    footer {
+      position: absolute;
+      bottom: 15px;
+      font-size: 14px;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎵 Media Ovoz va Video 🎬</h1>
+
+  <div class="media-box">
+    <audio controls>
+      <source src="example-audio.mp3" type="audio/mp3">
+      Audioni yuklab ola olmaysiz.
+    </audio>
+
+    <video  width="400" height="500" controls poster="poster.jpg">
+      <source src="example.mp4" type="video/mp4">
+      Videoni yuklab ola olmaysiz.
+    </video>
+  </div>
+
+  <footer>© 2025 Media Player</footer>
+</body>
+</html>

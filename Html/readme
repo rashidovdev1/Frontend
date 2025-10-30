@@ -96,3 +96,10 @@ charset="UTF-8" → sahifada uzbek, rus, ingliz harflari togri chiqadi.
 keywords → SEO (Google qidiruv) uchun kalit sozlar.
 author → muallif kimligini bildiradi.
 description → saytning qisqa tavsifi (Googleda chiqadi).
+
+<audio controls><source src="audio.mp3" type="audio/mp3"></audio>
+
+<video controls> <source src="video.mp4" type="video/mp4"></video>
+
+YouTube videoni joylashtirish (iframe orqali):
+iframe tegida src="https://www.youtube.com/embed/..." manzili ishlatiladi.
